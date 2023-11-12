@@ -11,5 +11,6 @@ Putusan pengadilan negeri terkait narkotika dan psikotropika adalah hasil keputu
 
 # Dataset
 Dataset yang digunakan didapatkan dari website Direktori Putusan dengan direktori Pidana Khusus, klasifikasi Narkotika dan Psikotropika, dan pada pengadilan Pengadilan Negeri Samarinda pada Tahun 2022 dengan total data yakni 92. 
-https://github.com/RizharAfifRaditya/Dataset-Narkotika_147/issues/1#issue-1989350520
+![github](https://github.com/RizharAfifRaditya/Dataset-Narkotika_147/assets/103306204/888fb1ab-7f9f-428e-8a8a-6aeaa25518f0)
+
 https://github.com/RizharAfifRaditya/Dataset-Narkotika_147/issues/2#issue-1989350589
